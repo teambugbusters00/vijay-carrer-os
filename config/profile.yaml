@@ -1,0 +1,93 @@
+profile:
+  name: "Vijay Ramdev"
+  email: "vijay.24jiaiml153@jietjodhpur.ac.in"
+  phone: "+91-8949906332"
+  location: "Jodhpur, Rajasthan, India"
+  country: "India"
+  graduation: "2028-06"
+  cgpa: 7.18
+  degree: "B.Tech CS (AI & ML)"
+  roles:
+    - Software Engineer Intern
+    - Full Stack Intern
+    - AI/ML Intern
+    - AI Engineer Intern
+    - ML Engineer Intern
+    - Backend Intern
+    - Frontend Intern
+    - GenAI / LLM Intern
+    - AI Agent Intern
+    - Research Intern
+    - Software Engineer
+    - Full Stack Developer
+    - AI Engineer
+    - ML Engineer
+    - Backend Engineer
+    - Frontend Engineer
+    - GenAI Engineer
+    - LLM Engineer
+    - AI Agent Engineer
+  employment: both
+  remote: both
+  min_monthly_stipend: null
+  preferred_countries: []
+  excluded_countries: []
+  urls:
+    linkedin: ""
+    github: "https://github.com/teambugbusters00"
+    portfolio: "https://bugbusters-dev.vercel.app/"
+    huggingface: ""
+  work_authorization:
+    India: true
+    US: false
+    Canada: false
+    UK: false
+    EU: false
+    Singapore: false
+    Australia: false
+  visa_sponsorship_required: null
+  timezone_availability:
+    Asia: true
+    Europe: true
+    US: true
+  application_mode: "approval_first"
+  skills:
+    languages: [Python, C++, JavaScript, SQL]
+    ai_ml: [PyTorch, TensorFlow, Keras, CNN, NLP, "Model Training", "Model Evaluation"]
+    transformers: ["Attention Mechanisms", "Positional Encodings", Tokenization, BERT, GPT, LLaMA]
+    llm: ["Prompt Engineering", "Agentic AI", RAG]
+    data: [NumPy, Pandas, Matplotlib, "Scikit-learn", Statistics]
+    web: [React, "Node.js", TypeScript, FastAPI, Flask, "REST APIs"]
+    infra: [Git, "CI/CD", Docker, Kubernetes, Azure, MongoDB, MySQL]
+  experience:
+    - company: "SnapFolio"
+      title: "Software Development Engineer Intern"
+      start: "2024-12"
+      end: "2025-05"
+      technologies: [JavaScript, TypeScript, "Node.js", React, "REST APIs", Git, "CI/CD"]
+  projects:
+    - name: "Exoplanet Detection – Hybrid CNN + Transformer AI"
+      technologies: [Python, JavaScript, React, FastAPI, PyTorch, WebSockets, Pandas, NumPy, "Scikit-learn", "GitHub Actions"]
+    - name: "ET Gen AI – Financial News Intelligence Platform"
+      technologies: [Python, Flask, React, TypeScript, TailwindCSS, "OpenAI API", "Chart.js"]
+    - name: "Build With Bharat"
+      technologies: [React, Vite, TailwindCSS, Firebase, Node.js, Express.js, MongoDB]
+    - name: "P2P File Transfer – Backend Architecture"
+      technologies: [Python, Node.js, TCP/IP, WebRTC, Socket.io, Docker]
+
+preferences:
+  sources:
+    - yc
+    - himalayas
+    - wellfound
+    - startup_jobs
+    - startuphub
+    - remoteok
+    - weworkremotely
+    - remotive
+    - workingnomads
+    - jobgether
+    - ashby
+    - greenhouse
+    - lever
+    - company_careers
